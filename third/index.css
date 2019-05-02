@@ -1,0 +1,74 @@
+.gray {
+    height: 100px;
+    width: 100%;
+    background-color: gray;
+    padding: 80px;
+    box-sizing: border-box;
+    margin: 0px;
+
+}
+.white{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    padding: 130px;
+    box-sizing: border-box;
+    margin: 0px;
+
+
+}
+.littleblue{
+    height: 50px;
+    width: 50px;
+    background-color: #4b72e0;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-left: 3px
+
+}
+
+    
+
+
+.blue{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(42, 131, 182);
+    padding: 70px;
+    box-sizing: border-box;
+    margin: 0px;
+
+
+}
+.lightblue{
+    height: 100px;
+    width: 100%;
+    background-color: hsl(165, 63%, 44%);
+    padding: 70px;
+    box-sizing: border-box;
+    margin: 0px;
+
+}
+.lightgreen{
+    height: 100px;
+    width: 100%;
+    background-color: #8ee9c3;
+    padding: 70px;
+    box-sizing: border-box;
+    margin: 0px;
+
+
+}
+.yellow{height: 100px;
+    width: 100%;
+    background-color: yellow;
+    padding: 70px;
+    box-sizing: border-box;
+    margin: 0px;
+
+
+}
+body, html {
+    margin: 0;
+    padding: 0;
+  }
